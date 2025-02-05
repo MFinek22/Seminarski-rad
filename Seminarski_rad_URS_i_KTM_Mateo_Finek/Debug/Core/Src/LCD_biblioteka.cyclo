@@ -1,0 +1,17 @@
+../Core/Src/LCD_biblioteka.c:49:6:LCD_Init	2
+../Core/Src/LCD_biblioteka.c:104:6:LCD_Clear	1
+../Core/Src/LCD_biblioteka.c:110:6:LCD_Home	1
+../Core/Src/LCD_biblioteka.c:116:6:LCD_Display	1
+../Core/Src/LCD_biblioteka.c:122:6:LCD_SetCursor	2
+../Core/Src/LCD_biblioteka.c:132:6:LCD_CreateSpecialChar	2
+../Core/Src/LCD_biblioteka.c:142:6:LCD_PrintSpecialChar	1
+../Core/Src/LCD_biblioteka.c:147:6:LCD_LoadCustomCharacter	1
+../Core/Src/LCD_biblioteka.c:152:6:LCD_PrintStr	2
+../Core/Src/LCD_biblioteka.c:157:13:SendCommand	1
+../Core/Src/LCD_biblioteka.c:162:13:SendChar	1
+../Core/Src/LCD_biblioteka.c:167:13:Send	1
+../Core/Src/LCD_biblioteka.c:175:13:Write4Bits	1
+../Core/Src/LCD_biblioteka.c:181:13:ExpanderWrite	1
+../Core/Src/LCD_biblioteka.c:187:13:PulseEnable	1
+../Core/Src/LCD_biblioteka.c:196:13:DelayInit	1
+../Core/Src/LCD_biblioteka.c:212:13:DelayUS	2
